@@ -1,4 +1,4 @@
-### 教程zzzz
+### 教程zzzzzz
 https://blog.csdn.net/weixin_37551036/article/details/115415358
 # glados-checkin
 ![glados-checkin](https://github.com/hbstarjason/glados-checkin/workflows/glados-checkin/badge.svg)
